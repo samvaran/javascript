@@ -23,7 +23,7 @@
   "browser": "./dist/web/pubnub.min.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pubnub/javascript.git"
+    "url": "https://github.com/samvaran/javascript.git"
   },
   "keywords": [
     "cloud",
@@ -47,7 +47,6 @@
     "superagent-proxy": "^2.0.0"
   },
   "noAnalyze": false,
-  "devDependencies": {},
   "bundleDependencies": [],
   "license": "MIT",
   "engine": {
